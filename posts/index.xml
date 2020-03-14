@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on b0066365</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on b0066365</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 14 Mar 2020 22:16:12 +0100</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>First Steps In Hugo</title>
+            <link>/posts/20200314-firststepsinhugo/</link>
+            <pubDate>Sat, 14 Mar 2020 22:16:12 +0100</pubDate>
+            
+            <guid>/posts/20200314-firststepsinhugo/</guid>
+            <description> Everything new in 2020 so it is time to start my first blog and I decided to go with Hugo as a static site generator.
+Let´s see where this leads us to.
+Things I like so far:  Easy to install Many Themes available Fast! Good Documentation Content in Markdown Dynamic Reload when Content changes  Code Rendering #!/usr/bin/python print(&amp;quot;Hello World&amp;quot;)  </description>
+            <content type="html"><![CDATA[
+
+<p>Everything new in 2020 so it is time to start my first blog and I decided to go with Hugo as a static site generator.</p>
+
+<p>Let´s see where this leads us to.</p>
+
+<h3 id="things-i-like-so-far">Things I like so far:</h3>
+
+<ul>
+<li>Easy to install</li>
+<li>Many Themes available</li>
+<li>Fast!</li>
+<li>Good Documentation</li>
+<li>Content in Markdown</li>
+<li>Dynamic Reload when Content changes</li>
+</ul>
+
+<h3 id="code-rendering">Code Rendering</h3>
+
+<pre><code class="language-python">#!/usr/bin/python
+print(&quot;Hello World&quot;)
+</code></pre>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
